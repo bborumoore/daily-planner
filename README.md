@@ -7,4 +7,4 @@ Authors: Brian Moore
 Github pages: https://bborumoore.github.io/daily-planner/  
 Github repo: https://github.com/bborumoore/daily-planner/
 
-Screenshot:
+Screenshot:![Screen cap of site](assets/images/dailyPlannerCap.png)
